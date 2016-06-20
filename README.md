@@ -1,12 +1,12 @@
 # Introduction to Machine Learning
 
- This notebook accompanies the *Introduction to Machine Learning* workshop to explain the core concepts of machine learning. `Python` data stack is used for the workshop. `Python`'s machine learning package `scikit-learn` is introduced. Using real-life examples, the data modeling framework is introduced: 
+This notebook accompanies the *Introduction to Machine Learning* workshop to explain the core concepts of machine learning. `Python` data stack is used for the workshop. `Python`'s machine learning package `scikit-learn` is introduced. Using real-life examples, the data modeling framework is introduced: 
  
  *Data ingestion -> Feature creation -> Feature selection -> Model creation -> Model validation -> Model selection*
  
- ## Overview
+## Overview
  
- Machine Learning is the branch of data science where algorithms are used to learn from historical data and is used to predict on future/unseen data. It impacts our daily lives in a lot of ways : The recommended links we get when we use the search engine, making portfolio decisions for the financial market, identifying different kinds of prospective customers etc.
+Machine Learning is the branch of data science where algorithms are used to learn from historical data and is used to predict on future/unseen data. It impacts our daily lives in a lot of ways : The recommended links we get when we use the search engine, making portfolio decisions for the financial market, identifying different kinds of prospective customers etc.
 
 This workshop will take a hands-on approach. 
 
