@@ -30,7 +30,7 @@ This workshop will take a hands-on approach.
     * Dimensionality reduction
     * Clustering
 
-**Introduction to `scikit-learn` **
+** Introduction to `scikit-learn` **
 
 **Introductory Model - Linear Models & Model Evaluation**
 
