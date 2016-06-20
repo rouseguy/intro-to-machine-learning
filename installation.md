@@ -32,6 +32,20 @@ The data is in the `Data` folder
 
 And there's a button: `clone or download`. Please download the files.
 
+## Check installation
+
+To test your installation, change to the tutorial directory, and run:
+
+    $ python check.env
+
+If the required packages are present, you will see the message:
+
+    $ OK.  All required items installed.
+
+If you see message to install particular package(s), please install them using the command:
+    
+    $ conda install <package name>
+
 
 ## Python Basics
 If you want to start learning / brushup your basics python programming skills, here is the material you can use - http://anandology.com/python-practice-book/getting-started.html

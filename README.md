@@ -56,7 +56,7 @@ This workshop will take a hands-on approach.
 
 ## Installation Instructions
 
-Please refer to the [installation](https://github.com/rouseguy/intro-to-machine-learning/blob/master/installation.md) file
+Please refer to the [installation](https://github.com/rouseguy/intro-to-machine-learning/blob/master/installation.md) instructions document. That document also has instructions on how to run a script to check if the required packages are installed. 
 
 ---
 
