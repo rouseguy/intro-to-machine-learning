@@ -9,7 +9,8 @@ has = dict(
     numpy='1.10.0',
     matplotlib='1.5.0',
     sklearn='0.17.0',
-    pandas='0.17'
+    pandas='0.17',
+    seaborn='0.7.0'
 )
 
 
