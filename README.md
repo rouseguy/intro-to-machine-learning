@@ -2,7 +2,7 @@
 
  This notebook accompanies the *Introduction to Machine Learning* workshop to explain the core concepts of machine learning. `Python` data stack is used for the workshop. `Python`'s machine learning package `scikit-learn` is introduced. Using real-life examples, the data modeling framework is introduced: 
  
- **Data ingestion -> Feature creation -> Feature selection -> Model creation -> Model validation -> Model selection**
+ *Data ingestion -> Feature creation -> Feature selection -> Model creation -> Model validation -> Model selection*
  
  ## Overview
  
